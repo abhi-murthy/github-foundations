@@ -1,2 +1,2 @@
 ## Learning Github Foundations certification
-> Testing Draft PR
+> Tested Draft PR successfully and works in Personal account.
