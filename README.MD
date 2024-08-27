@@ -1,2 +1,2 @@
 ## Learning Github Foundations certification
-> Testing Draft PR
+> Testing merging all commits to base branch.
